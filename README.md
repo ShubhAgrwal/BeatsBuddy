@@ -23,7 +23,8 @@
  [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-27%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/ShubhAgrwal/BeatsBuddy?style=flat-square)](https://github.com/ShubhAgrwal/BeatsBuddy/releases)
 
  **Download**
- [![Download](https://img.shields.io/github/downloads/ShubhAgrwal/BeatsBuddy/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/ShubhAgrwal/BeatsBuddy/releases)
+
+ [![Download](https://img.shields.io/github/downloads/ShubhAgrwal/BeatsBuddy/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/ShubhAgrwal/BeatsBuddy/releases/tag/v1.15.9/)
 
 ## 🌟 Features
 - [x] Best Streaming Quality (320kbps aac)
