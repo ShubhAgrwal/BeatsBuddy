@@ -20,7 +20,10 @@
 </p>
 <!-- ABOUT THE PROJECT -->
 
- [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/ShubhAgrwal/BeatsBuddy) ![Downloads](https://img.shields.io/github/downloads/ShubhAgrwal/BeatsBuddy/total)
+ [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-27%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/ShubhAgrwal/BeatsBuddy?style=flat-square)](https://github.com/ShubhAgrwal/BeatsBuddy/releases)
+
+ **Download**
+ [![Download](https://img.shields.io/github/downloads/ShubhAgrwal/BeatsBuddy/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/ShubhAgrwal/BeatsBuddy/releases)
 
 ## 🌟 Features
 - [x] Best Streaming Quality (320kbps aac)
